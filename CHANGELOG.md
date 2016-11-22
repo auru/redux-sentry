@@ -1,3 +1,13 @@
+<a name="1.1.0"></a>
+# 1.1.0 (2016-11-22)
+
+* build: build to es5 & commonjs modules ([ebadddd](https://github.com/auru/redux-sentry/commit/ebadddd))
+* docs: add changelog ([152fa89](https://github.com/auru/redux-sentry/commit/152fa89))
+* docs: add readme ([c747e6c](https://github.com/auru/redux-sentry/commit/c747e6c))
+* docs: update changelog ([2874d62](https://github.com/auru/redux-sentry/commit/2874d62))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2016-11-22)
 
