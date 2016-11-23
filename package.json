@@ -1,13 +1,14 @@
 {
   "name": "redux-sentry",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Middleware that logs all your store and actions on exception to Sentry with raven-js",
   "main": "lib/middleware.js",
   "scripts": {
     "compile": "tsc -p ./",
     "watch": "tsc -watch -p ./",
     "commit": "./node_modules/.bin/git-cz",
-    "version": " ./node_modules/.bin/conventional-changelog -i CHANGELOG.md -s && git add CHANGELOG.md"
+    "version": " ./node_modules/.bin/conventional-changelog -i CHANGELOG.md -s && git add CHANGELOG.md",
+    "prepublish": "npm run compile"
   },
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
