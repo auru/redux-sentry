@@ -35,10 +35,16 @@ export default ({ dsn, configuration = {}, username }:ravenInterface, transform:
     return ({ getState }) => next => action => {
 
         try {
-            Raven.isSetup() && Raven.captureBreadcrumb({ 
-                category: 'redux', 
-                message: action.type 
-            });
+            if (Raven.isSetup()) {
+                Raven.captureBreadcrumb({ 
+                    category: 'redux', 
+                    message: action.type 
+                });
+                Raven.setExtraContext({
+                    action: actionTransform(action),
+                    state: stateTransform(getState())
+                });
+            }
 
             return next(action);
         } catch (err) {

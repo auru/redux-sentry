@@ -1,3 +1,10 @@
+<a name="1.1.1"></a>
+# 1.1.1 (2017-01-20)
+
+* feat(context): add information about action and context to all errors ([7c347a6](https://github.com/auru/redux-sentry/commit/7c347a6))
+
+
+
 <a name="1.0.1"></a>
 ## 1.0.1 (2016-11-22)
 
