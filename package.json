@@ -28,7 +28,7 @@
     "url": "https://github.com/auru/redux-sentry.git"
   },
   "devDependencies": {
-    "@types/node": "^6.0.50",
+    "@types/node": "^7.0.4",
     "@types/raven-js": "0.0.18",
     "typescript": "^2.0.10",
     "conventional-changelog-cli": "^1.2.0",
