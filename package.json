@@ -28,15 +28,15 @@
     "url": "https://github.com/auru/redux-sentry.git"
   },
   "devDependencies": {
-    "@types/node": "^7.0.4",
-    "@types/raven-js": "0.0.18",
-    "typescript": "^2.1.0",
+    "@types/node": "^7.0.5",
+    "@types/raven-js": "0.0.19",
+    "typescript": "^2.1.6",
     "conventional-changelog-cli": "^1.2.0",
     "commitizen": "^2.9.5",
     "cz-conventional-changelog": "^1.2.0"
   },
   "dependencies": {
-    "raven-js": "^3.9.2"
+    "raven-js": "^3.10.0"
   },
   "config": {
     "commitizen": {
