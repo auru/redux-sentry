@@ -1,11 +1,13 @@
-<a name="1.3.0"></a>
-# 1.3.0 (2017-02-16)
+<a name="1.3.1"></a>
+# 1.3.1 (2017-02-16)
 
+* fix: add lib, dist dirs to npm package ([afac234](https://github.com/auru/redux-sentry/commit/afac234))
+* docs: update changelog ([461014d](https://github.com/auru/redux-sentry/commit/461014d))
+* docs: update changelog ([08e16c1](https://github.com/auru/redux-sentry/commit/08e16c1))
 * chore: update deps to green ([012eae7](https://github.com/auru/redux-sentry/commit/012eae7))
 * chore: update version to 1.3.0 ([935d69c](https://github.com/auru/redux-sentry/commit/935d69c))
 * build: add babel to prepublish script ([4a3808b](https://github.com/auru/redux-sentry/commit/4a3808b))
 * Update deps to green ([e820ca9](https://github.com/auru/redux-sentry/commit/e820ca9))
-* docs: update changelog ([08e16c1](https://github.com/auru/redux-sentry/commit/08e16c1))
 * feat(context): add information about action and context to all errors ([7c347a6](https://github.com/auru/redux-sentry/commit/7c347a6))
 
 
