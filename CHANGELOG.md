@@ -1,3 +1,10 @@
+<a name="1.3.3"></a>
+## 1.3.3 (2017-10-07)
+
+* chore(deps): update babel deps ([9eec4f2](https://github.com/auru/redux-sentry/commit/9eec4f2))
+
+
+
 <a name="1.3.2"></a>
 ## 1.3.2 (2017-10-07)
 

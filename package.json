@@ -1,6 +1,6 @@
 {
   "name": "redux-sentry",
-  "version": "1.3.2",
+  "version": "1.3.3",
   "description": "Middleware that logs all your store and actions on exception to Sentry with raven-js",
   "main": "dist/middleware.js",
   "scripts": {
