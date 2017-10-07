@@ -3,8 +3,9 @@
 		"module": "es2015",
 		"target": "es6",
 		"outDir": "lib",
-		"lib": [ "es6" ],
-		"sourceMap": false
+		"lib": [ "es6", "dom" ],
+		"sourceMap": false,
+		"moduleResolution": "node"
 	},
 	"exclude": [
 		"node_modules"
