@@ -1,3 +1,12 @@
+<a name="1.4.0"></a>
+# 1.4.0 (2017-10-07)
+
+* build: change ts config to latest raven-js ([34413ac](https://github.com/auru/redux-sentry/commit/34413ac))
+* docs: update changelog ([f2a7ae1](https://github.com/auru/redux-sentry/commit/f2a7ae1))
+* chore(deps): update babel deps ([9eec4f2](https://github.com/auru/redux-sentry/commit/9eec4f2))
+
+
+
 <a name="1.3.3"></a>
 ## 1.3.3 (2017-10-07)
 
