@@ -1,3 +1,11 @@
+<a name="1.3.2"></a>
+## 1.3.2 (2017-10-07)
+
+* docs: update changelog ([20024ae](https://github.com/auru/redux-sentry/commit/20024ae))
+* chore(deps): update helper deps ([a11de30](https://github.com/auru/redux-sentry/commit/a11de30))
+
+
+
 <a name="1.3.1"></a>
 # 1.3.1 (2017-02-16)
 
