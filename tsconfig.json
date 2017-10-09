@@ -5,7 +5,8 @@
 		"outDir": "lib",
 		"lib": [ "es6", "dom" ],
 		"sourceMap": false,
-		"moduleResolution": "node"
+		"moduleResolution": "node",
+		"allowSyntheticDefaultImports": true
 	},
 	"exclude": [
 		"node_modules"
