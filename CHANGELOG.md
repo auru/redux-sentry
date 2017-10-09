@@ -1,3 +1,14 @@
+<a name="1.4.1"></a>
+## 1.4.1 (2017-10-09)
+
+* fix(import): fix synthetic default imports ([9df7a3a](https://github.com/auru/redux-sentry/commit/9df7a3a))
+* docs: update changelog ([d83e325](https://github.com/auru/redux-sentry/commit/d83e325))
+* docs: update changelog ([f2a7ae1](https://github.com/auru/redux-sentry/commit/f2a7ae1))
+* build: change ts config to latest raven-js ([34413ac](https://github.com/auru/redux-sentry/commit/34413ac))
+* chore(deps): update babel deps ([9eec4f2](https://github.com/auru/redux-sentry/commit/9eec4f2))
+
+
+
 <a name="1.4.0"></a>
 # 1.4.0 (2017-10-07)
 
