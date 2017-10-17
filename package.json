@@ -44,7 +44,7 @@
     "typescript": "^2.5.3"
   },
   "dependencies": {
-    "raven-js": "^3.18.1"
+    "raven-js": "^3.19.0"
   },
   "config": {
     "commitizen": {
