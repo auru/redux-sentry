@@ -29,7 +29,7 @@
     "url": "https://github.com/auru/redux-sentry.git"
   },
   "devDependencies": {
-    "@types/node": "^8.0.33",
+    "@types/node": "^11.9.4",
     "babel-cli": "^6.16.0",
     "babel-core": "^6.17.0",
     "babel-eslint": "^8.0.1",
